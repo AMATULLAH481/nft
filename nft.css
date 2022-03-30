@@ -1,0 +1,64 @@
+*{ box-sizing: border-box;}
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    font-size: 15px;
+    
+}
+.Whole{
+    border-radius: 1rem;
+    max-width: 36ch;
+    min-height: 62ch;
+    background-color: hsl(216, 50%, 16%) ;
+
+}
+#one{
+    border-radius: 1.5rem;
+    min-height: 29ch;
+    max-width: 31ch;
+    display: flex;
+    margin-top: 2ch;
+    margin-left: 2ch;
+}
+.p{
+    margin-left: 3ch;
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+}
+.middle{
+    display: flex;
+
+}
+.tree{
+    display: flex;
+    margin-left: 1.5ch;
+}
+
+#ether{
+    color:hsl(178, 100%, 50%);
+    margin-left: 0.5ch;
+
+}
+.branch{
+    margin-left: 10ch;
+    margin-right: 2ch;
+    color: hsl(0, 0%, 100%);
+
+}
+#line{
+    margin-left: 2ch;
+    margin-right: 1.9ch ;
+    border: 1px solid hsl(215, 32%, 27%)  ;
+}
+#below{ 
+    width: 4ch;
+    margin-top: 2ch;
+    margin-left: 2.5ch;
+}
+#blue2{
+    color: hsl(0, 0%, 100%) ;
+    margin-left: 0.6ch;
+}
